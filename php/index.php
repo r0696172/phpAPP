@@ -17,3 +17,5 @@ if($result = $db->query($sql)){
 
 $result->free();
 $db->close();
+
+<img src="img/pinguin.jpg">
