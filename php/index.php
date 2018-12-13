@@ -17,5 +17,7 @@ if($result = $db->query($sql)){
 
 $result->free();
 $db->close();
+?>
 
-<img src="img/pinguin.jpg">
+<h1>Kerstpinguin</h1>
+<img src="img/pinguin.JPG"style="width:500px;height:600px;">
